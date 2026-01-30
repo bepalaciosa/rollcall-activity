@@ -1,6 +1,6 @@
 # Rollcall
 
 ## Name, GitHub username, and class-related interests
-* Beatriz E. Palacios A.
-  * GitHub: bepalaciosa
-  * Interests: computing for social good, building open-source community at UNM
+* Oscar McCoy
+  * GitHub: BoscarM
+  * Interests: HPC, AI, interested in contributing to my first open source project
