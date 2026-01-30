@@ -1,6 +1,7 @@
 # Rollcall
 
 ## Name, GitHub username, and class-related interests
-* Beatriz E. Palacios A.
-  * GitHub: bepalaciosa
-  * Interests: computing for social good, building open-source community at UNM
+*  Nevares-Diaz, Jennifer.
+  * GitHub: nevdiaz
+  * Interests: integrating art + tech, progressing the iECHO platform to better serve our partners + their participants, 
+and contribute to open source projects that impact communities in positive ways.
