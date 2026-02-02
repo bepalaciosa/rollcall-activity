@@ -12,7 +12,3 @@
 * Al-Ekram Elahee Hridoy
   * GitHub: alhridoy
   * Interests: open source, scalable systems, social impact tech
-
-* Jimmy Hoang
-  * GitHub: justsomejimmy
-  * Interests: video games, film, cloud computing, travel
