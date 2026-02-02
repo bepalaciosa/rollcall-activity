@@ -12,3 +12,7 @@
 * Al-Ekram Elahee Hridoy
   * GitHub: alhridoy
   * Interests: open source, scalable systems, social impact tech
+
+* Frank Hendrick
+  * GitHub: PIKMEN1995
+  * Interests: Cybersecurity, video games, puzzles, chess, camping, and backpacking.
