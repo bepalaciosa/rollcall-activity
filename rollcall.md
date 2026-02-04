@@ -12,3 +12,7 @@
 * Al-Ekram Elahee Hridoy
   * GitHub: alhridoy
   * Interests: open source, scalable systems, social impact tech
+
+* Ayman Hassen
+	* GitHub: ahassen4
+ 	* Interests: ethical computing, open source
