@@ -12,3 +12,7 @@
 * Al-Ekram Elahee Hridoy
   * GitHub: alhridoy
   * Interests: open source, scalable systems, social impact tech
+
+* Killian Pineda
+  * GitHub: killianpineda
+  * Interests: software engineering, cloud computing, formula 1, learning foreign languages
