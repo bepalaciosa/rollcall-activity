@@ -12,3 +12,7 @@
 * Al-Ekram Elahee Hridoy
   * GitHub: alhridoy
   * Interests: open source, scalable systems, social impact tech
+
+* Ivan Barragan Delgado
+  * GitHub: i-barragan
+  * Interests: understand sociocultural impacts that come with technology, contributing to HFOSS communities.
